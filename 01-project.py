@@ -9,3 +9,4 @@ if right_this_minute in odds:
 
 else:
      print("This is not an odd minute")
+    
