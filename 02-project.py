@@ -3,6 +3,7 @@ def main():
 
     total = 0
     while True:
+        
         try:
             user_input = input("Enter a number: ")
             if user_input.lower() == 'q':
