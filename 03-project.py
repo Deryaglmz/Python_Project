@@ -1,3 +1,5 @@
+# Salary Calculation
+
 basis = 12500
 
 for_each_year_of_experiencen =100 
@@ -5,7 +7,6 @@ for_each_year_of_experiencen =100
 for_child =250
 
 for_each_hour_of_overtime =50
-
 
 
 experience = int (input("How many years of your experience :"))
